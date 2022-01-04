@@ -14,9 +14,8 @@
 <p>
 	Landing Page feita somente com Html e Css básico.
 </p>
-<p>
-	Projeto feito seguindo o canal **[Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)**
-</p>
+
+Projeto feito seguindo o canal **[Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)**
 
 ## 🚀 Tecnologias
 - HTML
